@@ -10,7 +10,7 @@ const CardPassagem = () => {
         <h2 className="title">Voos para Recife</h2>
         <p className="text">Saindo de São Paulo</p>
         <p className="text">Por Gol</p>
-        <p className="highlight">Ida e Volta</p>
+        <p className="highlight badge">Ida e Volta</p>
         <div className="price-section">
           <p className="small-text">Preço ida e volta</p>
           <p className="price">R$ 710</p>
