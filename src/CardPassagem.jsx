@@ -7,7 +7,11 @@ const CardPassagem = () => {
       <img src="300x200.webp" alt="Recife" className="card-image" />
       <div className="card-content">
         <p className="label">PASSAGEM</p>
-        <h2 className="title">Voos para Recife</h2>
+        <h2 className="title">Voos para Recife</h2>class {
+          constructor(parameters) {
+            
+          }
+        }
         <p className="text">Saindo de São Paulo</p>
         <p className="text">Por Gol</p>
         <p className="highlight badge">Ida e Volta</p>
